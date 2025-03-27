@@ -1,4 +1,4 @@
-# Hi there, I'm Tauqeer 👋
+<!--# Hi there, I'm Tauqeer 👋
 🚀 MERN Stack Developer | React.js | Next.js | React Native
 
 🔹 Passionate about building **scalable** and **performant** web and mobile applications.
@@ -16,3 +16,63 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tauqeer-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tauqeer-abbas-392755150)
+-->
+
+<h1 align="center">Hi, I'm Tauqeer 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=1E90FF&center=true&width=500&lines=MERN+Stack+Developer;React+Native+Expert;Next.js+Lover;Building+Awesome+UIs;Open+Source+Contributor" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 **4+ Years of Experience** as a **MERN Stack Developer**
+- 📱 Specializing in **React.js, Next.js, and React Native**
+- 🏗 Building **high-performance** and **scalable applications**
+- 🚀 Passionate about **UI/UX, animations, and mobile development**
+- 🌍 Open to **freelance** and **remote job opportunities**
+
+---
+
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vscode,figma,docker&theme=light" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tauqeer180&show_icons=true&theme=react&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tauqeer180&theme=react" />
+</p>
+
+---
+
+## 🔥 Recent Projects  
+### 🚀 [Nautaes](https://nautaes.com)
+🛠 **Tech Used:** React, Next.js, Tailwind CSS, Firebase  
+📌 **Description:** Short project description here...  
+
+### 🚀 [Indivit](https://indivit.de)
+🛠 **Tech Used:** React Native, Node.js, MongoDB  
+📌 **Description:** Short project description here...  
+
+---
+
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/tauqeer-abbas-392755150">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tauqeermalik855@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Star some of my projects!** 🚀  
