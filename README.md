@@ -20,7 +20,7 @@
 
 <h1 align="center">Hi, I'm Tauqeer 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=1E90FF&center=true&width=500&lines=MERN+Stack+Developer;React+Native+Expert;Next.js+Lover;Building+Awesome+UIs;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=1E90FF&center=true&width=500&lines=MERN+Stack+Developer;React+Native+Expert;Next.js+Lover;Building+Awesome+UIs;Tailwindcss;Shadcn/UI;Firebase+Firestore" />
 </p>
 
 ---
