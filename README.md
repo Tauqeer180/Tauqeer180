@@ -58,7 +58,7 @@
 ## 📈 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tauqeer180&show_icons=true&theme=react&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Tauqeer180&theme=react" />
+<!--<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Tauqeer180&theme=react" />-->
 
 </p>
 
@@ -66,13 +66,16 @@
 
 ## 🔥 Recent Projects  
 ### 🚀 [Nautaes](https://nautaes.com)
-🛠 **Tech Used:** React, Next.js, Tailwind CSS, Firebase  
-📌 **Description:** Short project description here...  
+🛠 **Tech Used:** React, Next.js, Tailwind CSS, Laravel  
+📌 **Description:** Nautaes is an AI-powered marketplace designed specifically for yacht professionals. It connects yacht captains with certified marine service providers, facilitating seamless interactions for yacht maintenance, marine engineering, and interior design services. The platform aims to revolutionize maritime connections across Mediterranean ports by eliminating intermediaries and streamlining communication.  
 
 ### 🚀 [Indivit](https://indivit.de)
-🛠 **Tech Used:** React Native, Node.js, MongoDB  
-📌 **Description:** Short project description here...  
+🛠 **Tech Used:** React, Next.js, Tailwind CSS, Laravel  
+📌 **Description:** Indivit is a platform that allows users to create personalized smoothies by selecting from a variety of ingredients. The website provides an interactive interface for users to mix and match components to suit their taste and nutritional preferences. 
 
+<!--### 🚀 [Vinesia](https://vinesia.com)
+🛠 **Tech Used:** React, Next.js, Tailwind CSS, Laravel
+📌 **Description:** Vinesia is a blockchain-backed wine investment platform that offers a secure, transparent, and easily tradable environment for wine enthusiasts and investors. By sourcing wines directly from top wineries and providing real-time monitoring in a Luxembourg warehouse, Vinesia ensures the authenticity and appreciation of wine assets. The platform leverages blockchain technology to provide proof of authenticity, ownership, and storage conditions, making wine investments more accessible and trustworthy.-->
 ---
 
 ## 🤝 Connect with Me  
