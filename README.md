@@ -58,7 +58,8 @@
 ## 📈 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tauqeer180&show_icons=true&theme=react&count_private=true" />
- <img width="48%" src="https://streak-stats.demolab.com/?user=Tauqeer180&theme=react" />
+<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Tauqeer180&theme=react" />
+
 </p>
 
 ---
